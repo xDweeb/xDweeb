@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://xdweb.me](https://xdweb.me)
 
-- 💬 Ask me about **Anything related to Robotics, penetration testing, or cybersecurity.**
+- 💬 Ask me about **Anything related to Robotics, programming, or Designer.**
 
 - 📫 How to reach me **xdweb.elyakouti@hotmail.com**
 
