@@ -57,4 +57,7 @@
 
 ![xdweeb' GitHub Stats](https://github-readme-stats.vercel.app/api?username=xdweeb&show_icons=true&theme=radical)
 
+<p align="center">
+<a target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="xdweeb"  height="100 width="100" /></a> <a target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="xdweeb"  height="100 width="100" /></a> <a target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="xdweeb"  height="100 width="100" /></a>
+</p>
 <img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
