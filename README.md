@@ -61,3 +61,6 @@
 <a target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="xdweeb"  height="100 width="100" /></a> <a target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="xdweeb"  height="100 width="100" /></a> <a target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="xdweeb"  height="100 width="100" /></a>
 </p>
 <img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
+<img src="https://raw.githubusercontent.com/xdweeb/xdweeb/output/snake.svg" alt="Snake animation" />
+
+###
