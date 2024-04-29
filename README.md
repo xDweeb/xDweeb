@@ -35,17 +35,24 @@
 <p><img align="center" src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" alt="xdweeb" /></p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/xdweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="xdweb" height="30" width="40" /></a>
-<a href="https://twitter.com/elyakoutiweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elyakoutiweb" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/taibi-el-yakouti-7852a0253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taibi-el-yakouti-7852a0253" height="30" width="40" /></a>
-<a href="https://codesandbox.com/xdweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="xdweb" height="30" width="40" /></a>
-<a href="https://kaggle.com/xdweeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="xdweeb" height="30" width="40" /></a>
-<a href="https://instagram.com/xdweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xdweb" height="30" width="40" /></a>
-<a href="https://www.behance.net/elyakouti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="elyakouti" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/xdweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="xdweb" height="30" width="40" /></a>
-<a href="https://discord.gg/xDweb#0943" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xDweb#0943" height="30" width="40" /></a>
-</p>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/taibi-el-yakouti-7852a0253/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/elyakoutiweb" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://discord.gg/xDweb#0943" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://instagram.com/xdweb" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
 
 <h3 align="left">Languages and Tools:</h3>
 
