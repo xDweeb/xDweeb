@@ -72,8 +72,12 @@
 ![xdweeb' GitHub Stats](https://github-readme-stats.vercel.app/api?username=xdweeb&show_icons=true&theme=radical)
 
 <p align="center">
-<img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
 <img src="https://raw.githubusercontent.com/xdweeb/xdweeb/output/snake.svg" alt="Snake animation" />
 </p>
 
 ###
+
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31bzye3bxbglc4i75xf5woju65hq">
+  <img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
+</p>
