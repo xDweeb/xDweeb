@@ -97,7 +97,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=xdweeb" alt="Streak Stats" height="300" width="400" />
    </a>
    <a target="blank">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xdweeb&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="300" width="290" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xdweeb&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="300" width="285" />
    </a>
 </div>
 
