@@ -12,11 +12,14 @@
 </p>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=xdweeb&label=Profile%20views&color=0e75b6&style=flat" alt="xdweeb" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=xdweeb&label=Profile%20views&color=0e75b6&style=flat" alt="elyakoutiweb" /> <a href="https://twitter.com/elyakoutiweb" target="blank"><img src="https://img.shields.io/badge/Twitter-black
+" alt="xdweb" /></a> <a href="https://www.linkedin.com/in/xdweb/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white
+" alt="xdweb" /></a> <a href="https://instagram.com/xdweb" target="blank"><img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white
+" alt="xdweb" /></a> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xdweeb" alt="xdweeb" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xdweeb" alt="xdweeb" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/elyakoutiweb" target="blank"><img src="https://img.shields.io/twitter/follow/elyakoutiweb?logo=twitter&style=for-the-badge" alt="elyakoutiweb" /></a> </p>
+
 
 - 🌱 I’m currently learning **Artificial Intelligence and Cybersecurity**
 
@@ -81,3 +84,5 @@
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31bzye3bxbglc4i75xf5woju65hq">
   <img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
 </p>
+
+Do you want to contact me for collaboration opportunities? ⟶ <a href="mailto:xdweb.elyakouti@hotmail.com">Contact Details</a><br> <b>Show some ❤️ by starring some of the repositories!</b> </p> ```
