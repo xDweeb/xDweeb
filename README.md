@@ -72,6 +72,21 @@
 
 ### 📈 GitHub Stats
 
+<details>
+<summary><b>⚙️ GitHub Analytics</b></summary>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xdweeb&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xdweeb&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xdweeb&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xdweeb&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xdweeb&theme=github_dark&utcOffset=8)
+
+</details>
+
 
 ![xdweeb' GitHub Stats](https://github-readme-stats.vercel.app/api?username=xdweeb&show_icons=true&theme=radical)
 
