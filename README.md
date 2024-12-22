@@ -14,7 +14,14 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xdweeb&label=Profile%20views&color=0e75b6&style=flat" alt="elyakoutiweb" /> </p>
 
-<p align="center"> <a href="https://github.com/xdweeb/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xdweeb&title=-Reviews,-Issues" alt="xdweeb" /></a> </p>
+<div align="center">
+   <p>
+      <a href="https://github.com/xdweeb/github-profile-trophy">
+         <img src="https://github-profile-trophy.vercel.app/?username=xdweeb&title=-Reviews,-Issues" alt="xdweeb" />
+      </a>
+   </p>
+</div>
+
 
 
 
@@ -58,9 +65,10 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,anaconda,androidstudio,arduino,aws,bash,blender,c,cs,cpp,cloudflare,css,django,figma,flutter,github,html,ai,linux,kali,mongodb,mysql,notion,ps,postgres,powershell,processing,pycharm,py,raspberrypi,redhat,replit,sqlite,sklearn,swift,tailwind,tensorflow,ubuntu,unity,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,anaconda,androidstudio,arduino,aws,bash,blender,c,cs,cpp,cloudflare,css,django,azure,figma,flutter,github,html,ai,linux,kali,mongodb,docker,mysql,notion,ps,postgres,powershell,processing,pycharm,py,raspberrypi,redhat,replit,sqlite,sklearn,emacs,nodejs,matlab,md,js,java,swift,tailwind,tensorflow,ubuntu,unity,visualstudio,vscode,gmail,gitlab,flask,wordpress,windows,vim,react,r,opencv,stackoverflow,php" />
   </a>
 </p>
+
 
 
 ### 📈 GitHub Analytics
@@ -100,7 +108,13 @@
 
 ###
 
-Do you want to contact me for collaboration opportunities? ⟶ <a href="mailto:xdweb.elyakouti@hotmail.com">Contact Details</a><br> <b>Show some ❤️ by starring some of the repositories!</b> </p>
+<div align="center">
+   <p>Do you want to contact me for collaboration opportunities? ⟶ 
+      <a href="mailto:xdweb.elyakouti@hotmail.com">Contact Details</a><br> 
+      <b>Show some ❤️ by starring some of the repositories!</b>
+   </p>
+</div>
+
 
 <p align="center">
   <img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
