@@ -70,20 +70,22 @@
 <a target="blank"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xdweeb&" alt="xdweeb" height="300" width="400" /></a> <a target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xdweeb&show_icons=true&locale=en&layout=compact" alt="xdweeb"  height="300" width="290" /></a>
 </p>
 
-### 📈 GitHub Stats
-
-<details>
-<summary><b>⚙️ GitHub Analytics</b></summary>
+### 📈 GitHub Analytics
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xdweeb&theme=github_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xdweeb&theme=github_dark)
+<div align="center">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xdweeb&theme=github_dark" alt="Top Languages">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xdweeb&theme=github_dark" alt="Most Commit Language">
+</div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xdweeb&theme=github_dark)
+<div align="center">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xdweeb&theme=github_dark" alt="GitHub Stats">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xdweeb&theme=github_dark&utcOffset=8" alt="Productive Time">
+</div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xdweeb&theme=github_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xdweeb&theme=github_dark&utcOffset=8)
+<details>
+<summary><b>⚙️ GitHub Stats</b></summary>
 
 </details>
 
