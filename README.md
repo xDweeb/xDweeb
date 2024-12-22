@@ -72,6 +72,7 @@
 
 ### 📈 GitHub Stats
 
+
 ![xdweeb' GitHub Stats](https://github-readme-stats.vercel.app/api?username=xdweeb&show_icons=true&theme=radical)
 
 <p align="center">
@@ -80,9 +81,8 @@
 
 ###
 
+Do you want to contact me for collaboration opportunities? ⟶ <a href="mailto:xdweb.elyakouti@hotmail.com">Contact Details</a><br> <b>Show some ❤️ by starring some of the repositories!</b> </p>
+
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31bzye3bxbglc4i75xf5woju65hq">
   <img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
 </p>
-
-Do you want to contact me for collaboration opportunities? ⟶ <a href="mailto:xdweb.elyakouti@hotmail.com">Contact Details</a><br> <b>Show some ❤️ by starring some of the repositories!</b> </p> ```
