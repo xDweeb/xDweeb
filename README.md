@@ -87,10 +87,6 @@
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xdweeb&theme=github_dark&utcOffset=8" alt="Productive Time">
 </div>
 
-<details>
-<summary><b>⚙️ GitHub Stats</b></summary>
-</details>
-
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
    <a target="blank">
@@ -101,6 +97,57 @@
    </a>
 </div>
 
+<details>
+<summary><b>📈 Get My Code Stats</b></summary><br>
+
+<!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1500 commits        ███████░░░░░░░░░░░░░░░░░░   30.00% 
+🌆 Daytime                2000 commits        ██████████░░░░░░░░░░░░░░░   40.00% 
+🌃 Evening                1000 commits        ███████░░░░░░░░░░░░░░░░░░   20.00% 
+🌙 Night                  500 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   10.00% 
+```
+
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   800 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00% 
+Tuesday                  1000 commits        █████░░░░░░░░░░░░░░░░░░░░   20.00% 
+Wednesday                900 commits         █████░░░░░░░░░░░░░░░░░░░░   18.00% 
+Thursday                 1300 commits        ███████░░░░░░░░░░░░░░░░░░   26.00% 
+Friday                   400 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00% 
+Saturday                 400 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00% 
+Sunday                   200 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   04.00% 
+```
+<!--END_SECTION:waka-->
+</details>
+
+
+<details>
+  <summary><b>⚙️ Spotify</b></summary>
+  <div align="center">
+    <table>
+      <tr>
+        <td align="center">
+          <!-- Spotify GitHub Profile -->
+          <a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
+            <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bzye3bxbglc4i75xf5woju65hq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify GitHub Profile" width="240" />
+          </a>
+        </td>
+        <td align="center">
+          <!-- Spotify Recently Played -->
+          <a href="https://open.spotify.com/user/31bzye3bxbglc4i75xf5woju65hq" target="_blank">
+            <img src="https://spotify-recently-played-readme.vercel.app/api?user=31bzye3bxbglc4i75xf5woju65hq" alt="Spotify Recently Played" width="400" />
+          </a>
+        </td>
+      </tr>
+    </table>
+  </div>
+</details>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/xdweeb/xdweeb/output/snake.svg" alt="Snake animation" />
