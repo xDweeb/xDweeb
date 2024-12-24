@@ -13,7 +13,7 @@
 
 <h3 align="center">Connect with me:</h3>
 
-<div align="center">
+<div align="center" style="margin-bottom: 20px;">
   <a href="https://www.linkedin.com/in/taibi-el-yakouti-7852a0253/" target="_blank">
     <img src="https://cdn-icons-png.freepik.com/256/2335/2335321.png?ga=GA1.1.361340327.1735012906" width="52" height="52" alt="LinkedIn" />
   </a>
@@ -31,10 +31,14 @@
   </a>
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=xdweeb&label=Profile%20views&color=0e75b6&style=flat" alt="elyakoutiweb" /> </p>
 
 
-<div align="center">
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://komarev.com/ghpvc/?username=xdweeb&label=Profile%20views&color=0e75b6&style=flat" alt="elyakoutiweb" />
+</div>
+
+
+<div align="center" style="margin-bottom: 20px;">
    <p>
       <a href="https://github.com/xdweeb/github-profile-trophy">
          <img src="https://github-profile-trophy.vercel.app/?username=xdweeb&title=-Issues" alt="xdweeb" />
