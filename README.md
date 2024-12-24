@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00D310&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1000&lines=Hi+There!+👋;+I'm+Taibi+El+Yakouti+|+@xdweb;" />
 </h1>
-<h3 align="center">Artificial Intelligence and Cybersecurity student | Robotics Champion | Graphic and Web Designer</h3>
+<h3 align="center">Artificial Intelligence Student | Robotics Champion | Cybersecurity Enthusiast | Graphic & Web Designer | Event Organizer | ALX Software Engineer in Progress</h3>
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/xdweeb/count.svg">
@@ -13,7 +13,7 @@
 
 <h3 align="center">Connect with me:</h3>
 
-<div align="center" style="margin-bottom: 30px;">
+<div align="center" style="margin-bottom: 20px;">
   <a href="https://www.linkedin.com/in/taibi-el-yakouti-7852a0253/" target="_blank">
     <img src="https://cdn-icons-png.freepik.com/256/2335/2335321.png?ga=GA1.1.361340327.1735012906" width="52" height="52" alt="LinkedIn" />
   </a>
@@ -33,12 +33,12 @@
 
 
 
-<div align="center" style="margin-bottom: 30px;">
+<div align="center" style="margin-bottom: 20px;">
   <img src="https://komarev.com/ghpvc/?username=xdweeb&label=Profile%20views&color=0e75b6&style=flat" alt="elyakoutiweb" />
 </div>
 
 
-<div align="center" style="margin-bottom: 30px;">
+<div align="center" style="margin-bottom: 20px;">
    <p>
       <a href="https://github.com/xdweeb/github-profile-trophy">
          <img src="https://github-profile-trophy.vercel.app/?username=xdweeb&title=-Issues" alt="xdweeb" />
