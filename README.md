@@ -34,7 +34,12 @@
 
 
 <div align="center" style="margin-bottom: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=xdweeb&label=Profile%20views&color=0e75b6&style=flat" alt="elyakoutiweb" />
+  <a>
+    <img src="https://komarev.com/ghpvc/?username=xdweeb&label=Profile%20views&color=0e75b6&style=flat" alt="xdweb" />
+  </a>
+  <a>
+    <img src="https://img.shields.io/github/stars/xdweeb" alt="xdweb" />
+  </a>
 </div>
 
 
