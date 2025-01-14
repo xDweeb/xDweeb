@@ -32,6 +32,12 @@
 </div>
 
 
+<h3 align="center">Certification Badges:</h3>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/GitHub%20Foundation.png" width="100px" height="105px" />
+<a href="https://www.credly.com/badges/37d07a2e-5ae7-4963-9a74-2a8cdc208234/public_url">
+</div>
+</details> 
 
 <div align="center" style="margin-bottom: 20px;">
   <a>
