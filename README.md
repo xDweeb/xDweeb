@@ -67,13 +67,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/xdweeb](https://github.com/xdweeb)
 
-- 📝 I regularly write articles on [https://xdweb.me](https://xdweb.me)
+- 📝 I regularly write articles on [https://xdweb.enginner](https://xdweb.enginner)
 
 - 💬 Ask me about **Anything related to Robotics, Ai, or cybersecurity.**
 
-- 📫 How to reach me **xdweb.elyakouti@hotmail.com**
+- 📫 How to reach me **contact@xdweb.engineer**
 
-- 📄 Know about my experiences [https://xdweb.me](https://xdweb.me)
+- 📄 Know about my experiences [https://xdweb.engineer](https://xdweb.engineer)
 
 - ⚡ Fun fact **The name 'Arduino' was inspired by a bar in Ivrea, Italy, where the project's founders used to meet. It's a nod to the place where innovation and collaboration sparked, just like the projects I love to create!**
 
